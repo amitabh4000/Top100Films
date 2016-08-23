@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="SortOptions">
+        <item> Popularity</item>
+        <item>Rating</item>
+    </string-array>
+    <string-array name="SortOptionsValues">
+        <item> POPULARITY</item>
+        <item>RATING</item>
+    </string-array>
+
+
+</resources>
